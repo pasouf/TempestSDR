@@ -1,3 +1,11 @@
+MyNotes 20201210
+==================
+Ettus UHD must be compiled first :
+git clone https://github.com/EttusResearch/uhd.git
+make command line : make all JAVA_HOME=/usr/lib/jvm/java-11-openjdk-amd64/
+
+
+
 TempestSDR
 =============
 
